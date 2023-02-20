@@ -1,6 +1,6 @@
 # LLM & Prompt Vulnerabilities
 
-Finding and documentating vulnerabilities in Generative Models based on prompt-engineering
+### Finding and documentating vulnerabilities in Generative Models based on prompt-engineering
 
 
 - Prompt In the Middle (PITM)?
